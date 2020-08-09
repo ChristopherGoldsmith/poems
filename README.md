@@ -5,3 +5,5 @@ red rainbow
 white rainbow
 blue rainbow
 yellow rainbow
+pink rainbow
+cool raibow
